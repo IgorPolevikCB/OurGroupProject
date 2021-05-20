@@ -1,0 +1,42 @@
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe.config
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.pdb
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csprojAssemblyReference.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Properties.Resources.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.GenerateResource.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.CoreCompileInputs.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.exe
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.pdb
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Calculator.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe.config
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.pdb
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Calculator.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Converter.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Form1.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Form2.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.SearchForm.resources
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.exe
+C:\Users\user\Desktop\Новая папка\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.pdb
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe.config
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.pdb
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Calculator.resources
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Converter.resources
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Notepad.resources
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.About.resources
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Properties.Resources.resources
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.exe
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.pdb
+C:\Users\user\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Clock.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Clock.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Converter.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Notepad.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.About.resources
